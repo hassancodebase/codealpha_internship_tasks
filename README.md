@@ -8,8 +8,7 @@ This is a learning-based internship focused on DevOps concepts and tools. Tasks 
 
 ## 🛠️ Tasks Completed
 
-- Task 1: CI/CD Pipeline using Azure (Coming Soon)
-- Task 2: Jenkins Remoting (Coming Soon)
+- Task 1: CI/CD Pipeline using Azure (Completed)
 - Task 3: Java Application using Gradle (Completed)
 - Task 4: Web Server using Docker (Completed)
 
